@@ -2,11 +2,6 @@
 using FPLCompanion.Data.Entities;
 using FPLCompanion.Dto;
 using FPLCompanion.Dto.Grid;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FPLCompanion.Dependencies
 {
