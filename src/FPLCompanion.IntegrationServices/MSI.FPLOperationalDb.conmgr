@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="MSI.FPLOperationalDb"
+  DTS:DTSID="{CB821F37-83D2-406C-B72B-4858A9A26420}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=MSI;Initial Catalog=FPLOperationalDb;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-FPLCompanion-{CB821F37-83D2-406C-B72B-4858A9A26420}MSI.FPLOperationalDb;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

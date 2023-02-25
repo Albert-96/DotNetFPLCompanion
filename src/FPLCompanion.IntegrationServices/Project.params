@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<SSIS:Parameters xmlns:SSIS="www.microsoft.com/SqlServer/SSIS">
+  <SSIS:Parameter
+    SSIS:Name="prjConnectionString">
+    <SSIS:Properties>
+      <SSIS:Property
+        SSIS:Name="ID">{777005dc-cbe2-4090-abb8-85f935656b0b}</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="CreationName"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Description"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Required">1</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Sensitive">1</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Value"
+        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALeJLtl+pIEWu2iGvQ/MQUQAAAAACAAAAAAAQZgAAAAEAACAAAAB8JZ2pGzHc0vNNIRdoukR+AOT8JZ2nk6BugKhtMR/0jQAAAAAOgAAAAAIAACAAAAAoL9S63yXKGbTbqg7N16fntU63FjNADSCVni6TXJmgrtAAAAC3wJaLZDwKDQoMyNhq0FvdfcHyAL1y2ZOJtHH9WI3fV56v69DmbQDhnN/4YrDaglskJlTZG9Wfb34UQk34h8++9yiOHFnkZjObVUM+IbiqYY1VaoPP/NDDX7LucOrBpw/en6hVJCTeGTlnGTSwNhEwmLOF9bLXXfNly+8NeUUz1TFWxhC0FL5SuG7/eb0f1luVMYaUJIo9uwsF/ndUu3Tj9I+KLYHjnxOgeqUIVHzPJBEyRDxk8bgiSHFkWn2DZUEhaG7gdSDVlT1ZFmHkmThpQAAAAC4GKIiEcfOiiIGcot7UEOmWw5nm5L/z4PQ0+87ICLGJUqFYvU/q+KJIV9Bxq6JO+J+xgwSz6LpNYRzFaW8DX4I=</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="DataType">18</SSIS:Property>
+    </SSIS:Properties>
+  </SSIS:Parameter>
+</SSIS:Parameters>
