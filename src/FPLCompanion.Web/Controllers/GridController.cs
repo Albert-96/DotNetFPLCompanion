@@ -9,7 +9,7 @@ namespace FPLCompanion.Controllers
     public class GridController : BaseController
     {
         [HttpGet]
-        [Route("grid/filter/{gridKey}")]
+        [Route("grid/filter")]
         public async Task<IActionResult> GetGridFilter(string gridKey)
         {
             return this.Ok(await this.Mediator.Send(
