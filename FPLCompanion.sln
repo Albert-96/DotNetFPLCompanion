@@ -27,9 +27,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FPLCompanion.IntegrationSer
 EndProject
 Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "FPLCompanion.IntegrationServices", "src\FPLCompanion.IntegrationServices\FPLCompanion.IntegrationServices.dtproj", "{61C27BCB-C432-4A58-B72D-2D0026178827}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPLCompanion.Dependencies", "src\FPLCompanion.Dependencies\FPLCompanion.Dependencies.csproj", "{3A42869B-5175-431D-B9B5-7B182BDECF10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FPLCompanion.Dependencies", "src\FPLCompanion.Dependencies\FPLCompanion.Dependencies.csproj", "{3A42869B-5175-431D-B9B5-7B182BDECF10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPLCompanion.Dto", "src\shared\FPLCompanion.Dto\FPLCompanion.Dto.csproj", "{9D5FAA35-4FD5-4433-8EBE-F31F8B3D814B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FPLCompanion.Dto", "src\shared\FPLCompanion.Dto\FPLCompanion.Dto.csproj", "{9D5FAA35-4FD5-4433-8EBE-F31F8B3D814B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,7 +63,6 @@ Global
 		{A3BBA490-5D34-4FAB-BBAC-E2411A578F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3BBA490-5D34-4FAB-BBAC-E2411A578F85}.Release|Any CPU.Build.0 = Release|Any CPU
 		{61C27BCB-C432-4A58-B72D-2D0026178827}.Debug|Any CPU.ActiveCfg = Development
-		{61C27BCB-C432-4A58-B72D-2D0026178827}.Debug|Any CPU.Build.0 = Development
 		{61C27BCB-C432-4A58-B72D-2D0026178827}.Development|Any CPU.ActiveCfg = Development
 		{61C27BCB-C432-4A58-B72D-2D0026178827}.Development|Any CPU.Build.0 = Development
 		{61C27BCB-C432-4A58-B72D-2D0026178827}.Release|Any CPU.ActiveCfg = Development
